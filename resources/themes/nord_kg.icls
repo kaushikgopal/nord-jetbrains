@@ -11,7 +11,7 @@
     <option name="ANNOTATIONS_COLOR" value="d8dee9" />
     <option name="CARET_COLOR" value="d8dee9" />
     <option name="CARET_ROW_COLOR" value="3b4252" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="2e3440" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="171D29" />
     <option name="DELETED_LINES_COLOR" value="bf616a" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="d08770" />
     <option name="DIAGRAM_DEFAULT_EDGE" value="d8dee9" />
@@ -40,7 +40,7 @@
     <option name="FILESTATUS_addedOutside" value="a3be8c" />
     <option name="FILESTATUS_changelistConflict" value="d08770" />
     <option name="FILESTATUS_modifiedOutside" value="ebcb8b" />
-    <option name="GUTTER_BACKGROUND" value="2e3440" />
+    <option name="GUTTER_BACKGROUND" value="171D29" />
     <option name="HTML_TAG_TREE_LEVEL0" value="" />
     <option name="HTML_TAG_TREE_LEVEL1" value="" />
     <option name="HTML_TAG_TREE_LEVEL2" value="" />
@@ -732,7 +732,7 @@
     <option name="CSS.COLON">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="2e3440" />
+        <option name="BACKGROUND" value="171D29" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -1193,28 +1193,28 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="FOREGROUND" value="2e3440" />
+        <option name="FOREGROUND" value="171D29" />
         <option name="BACKGROUND" value="374355" />
         <option name="ERROR_STRIPE_COLOR" value="5e81ac" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="FOREGROUND" value="2e3440" />
+        <option name="FOREGROUND" value="171D29" />
         <option name="BACKGROUND" value="4b3d48" />
         <option name="ERROR_STRIPE_COLOR" value="bf616a" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="FOREGROUND" value="2e3440" />
+        <option name="FOREGROUND" value="171D29" />
         <option name="BACKGROUND" value="3f4a5a" />
         <option name="ERROR_STRIPE_COLOR" value="81a1c1" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="FOREGROUND" value="2e3440" />
+        <option name="FOREGROUND" value="171D29" />
         <option name="BACKGROUND" value="54524f" />
         <option name="ERROR_STRIPE_COLOR" value="ebcb8b" />
       </value>
@@ -1527,7 +1527,7 @@
     <option name="GO_COLON">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="2e3440" />
+        <option name="BACKGROUND" value="171D29" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -2006,7 +2006,7 @@
     <option name="HAML_TEXT">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="2e3440" />
+        <option name="BACKGROUND" value="171D29" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -2086,7 +2086,7 @@
     <option name="HTML_CODE">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="2e3440" />
+        <option name="BACKGROUND" value="171D29" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -3004,7 +3004,7 @@
     <option name="LESS_COLON">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="2e3440" />
+        <option name="BACKGROUND" value="171D29" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -3051,7 +3051,7 @@
     <option name="LESS_INJECTED_CODE">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="2e3440" />
+        <option name="BACKGROUND" value="171D29" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -3381,7 +3381,7 @@
     <option name="MARKDOWN_HTML_BLOCK">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="2e3440" />
+        <option name="BACKGROUND" value="171D29" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -3427,7 +3427,7 @@
     <option name="MARKDOWN_LIST_ITEM">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="2e3440" />
+        <option name="BACKGROUND" value="171D29" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -3451,7 +3451,7 @@
     <option name="MARKDOWN_TEXT">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="2e3440" />
+        <option name="BACKGROUND" value="171D29" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -4487,7 +4487,7 @@
     <option name="SASS_COLON">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="2e3440" />
+        <option name="BACKGROUND" value="171D29" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -5079,7 +5079,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="2e3440" />
+        <option name="BACKGROUND" value="171D29" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -5514,7 +5514,7 @@
     <option name="XML_TAG_DATA">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="2e3440" />
+        <option name="BACKGROUND" value="171D29" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -5567,14 +5567,14 @@
     <option name="XPATH.XPATH_PREFIX">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="2e3440" />
+        <option name="BACKGROUND" value="171D29" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="XPATH.XPATH_TEXT">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="2e3440" />
+        <option name="BACKGROUND" value="171D29" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -5612,7 +5612,7 @@
     <option name="YAML_SCALAR_LIST">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="2e3440" />
+        <option name="BACKGROUND" value="171D29" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -5635,7 +5635,7 @@
     <option name="YAML_TEXT">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="2e3440" />
+        <option name="BACKGROUND" value="171D29" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
